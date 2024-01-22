@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630411152284",
+    "project_id": "aguasol-c26f8",
+    "storage_bucket": "aguasol-c26f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630411152284:android:4f5239a277e11d84359659",
+        "android_client_info": {
+          "package_name": "com.example.app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630411152284-9vo8htp83ltjmq5aq1p6lfosvk2g9063.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXxwtanT07WsZ63mcyok3J0yshXxi6CXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630411152284-9vo8htp83ltjmq5aq1p6lfosvk2g9063.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
