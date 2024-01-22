@@ -58,8 +58,8 @@ class MyApp extends StatelessWidget {
       routes: {
 //<<<<<<< HEAD
         '/diseño': (context) => Hola(),
-        '/cliubi':(context)=>Maps(),
-        '/ubicacion':(context)=>Ubicacion(),
+        '/cliubi': (context) => Maps(),
+        '/ubicacion': (context) => Ubicacion(),
         '/historial': (context) => Historial(),
         '/c_felicitaciones': (context) => FelicitacionesConductor(),
         '/c_bienvenido': (context) => BienvenidaConductor(),
